@@ -1,0 +1,15 @@
+[submodule "tokio"]
+	path = tokio
+	url = https://github.com/tokio-rs/tokio.git
+[submodule "quiche"]
+	path = quiche
+	url = https://github.com/cloudflare/quiche.git
+[submodule "mio"]
+	path = mio
+	url = https://github.com/tokio-rs/mio.git
+[submodule "pyo3"]
+	path = pyo3
+	url = https://github.com/PyO3/pyo3.git
+[submodule "serde"]
+	path = serde
+	url = https://github.com/serde-rs/serde.git
