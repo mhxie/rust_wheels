@@ -13,3 +13,6 @@
 [submodule "serde"]
 	path = serde
 	url = https://github.com/serde-rs/serde.git
+[submodule "tarpc"]
+	path = tarpc
+	url = https://github.com/google/tarpc.git
