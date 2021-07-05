@@ -16,3 +16,6 @@
 [submodule "tarpc"]
 	path = tarpc
 	url = https://github.com/google/tarpc.git
+[submodule "rust-analyzer"]
+	path = rust-analyzer
+	url = https://github.com/rust-analyzer/rust-analyzer.git
